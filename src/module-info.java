@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author KSMS
+ *
+ */
+module Myfirstjavaprogram {
+}
